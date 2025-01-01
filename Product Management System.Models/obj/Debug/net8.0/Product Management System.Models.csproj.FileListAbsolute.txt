@@ -1,0 +1,12 @@
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\bin\Debug\net8.0\Product Management System.Models.deps.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\bin\Debug\net8.0\Product Management System.Models.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\bin\Debug\net8.0\Product Management System.Models.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\Product Management System.Models.csproj.AssemblyReference.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\Product Management System.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\Product Management System.Models.AssemblyInfoInputs.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\Product Management System.Models.AssemblyInfo.cs
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\Product Management System.Models.csproj.CoreCompileInputs.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\Product Management System.Models.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\refint\Product Management System.Models.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\Product Management System.Models.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Models\obj\Debug\net8.0\ref\Product Management System.Models.dll

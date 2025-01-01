@@ -1,0 +1,19 @@
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Infrastructure.deps.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Infrastructure.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Infrastructure.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Application.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Context.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Models.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Application.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Context.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\bin\Debug\net8.0\Product Management System.Models.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\Product Management System.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\Product Management System.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\Product Management System.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\Product Management System.Infrastructure.AssemblyInfo.cs
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\Product Management System.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\Product .391CB850.Up2Date
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\Product Management System.Infrastructure.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\refint\Product Management System.Infrastructure.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\Product Management System.Infrastructure.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure\obj\Debug\net8.0\ref\Product Management System.Infrastructure.dll

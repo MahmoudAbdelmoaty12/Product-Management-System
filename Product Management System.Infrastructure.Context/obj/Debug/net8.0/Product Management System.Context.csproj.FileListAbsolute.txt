@@ -1,0 +1,17 @@
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\bin\Debug\net8.0\Product Management System.Context.deps.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\bin\Debug\net8.0\Product Management System.Context.runtimeconfig.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\bin\Debug\net8.0\Product Management System.Context.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\bin\Debug\net8.0\Product Management System.Context.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\bin\Debug\net8.0\Product Management System.Models.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\bin\Debug\net8.0\Product Management System.Models.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product Management System.Context.csproj.AssemblyReference.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product Management System.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product Management System.Context.AssemblyInfoInputs.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product Management System.Context.AssemblyInfo.cs
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product Management System.Context.csproj.CoreCompileInputs.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product .A1B2F2C2.Up2Date
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product Management System.Context.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\refint\Product Management System.Context.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product Management System.Context.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\Product Management System.Context.genruntimeconfig.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.Infrastructure.Context\obj\Debug\net8.0\ref\Product Management System.Context.dll

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TheGenius\\Desktop\\Product Management System\\Product Management System\\Product Management System.View\\wwwroot\\images\\214d2863-5689-4dd3-8e2b-e77d1d200571.png",
+      "PackagePath": "staticwebassets\\images\\214d2863-5689-4dd3-8e2b-e77d1d200571.png"
+    },
+    {
+      "Id": "C:\\Users\\TheGenius\\Desktop\\Product Management System\\Product Management System\\Product Management System.View\\wwwroot\\images\\6df350d1-38fc-4881-b028-9c48abd3cdef.jpg",
+      "PackagePath": "staticwebassets\\images\\6df350d1-38fc-4881-b028-9c48abd3cdef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TheGenius\\Desktop\\Product Management System\\Product Management System\\Product Management System.View\\wwwroot\\images\\99b2fe20-01fb-45cc-ab3c-eaf61e97f3b2.jpg",
+      "PackagePath": "staticwebassets\\images\\99b2fe20-01fb-45cc-ab3c-eaf61e97f3b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TheGenius\\Desktop\\Product Management System\\Product Management System\\Product Management System.View\\wwwroot\\images\\d8509612-11eb-42b8-b42e-bf896a2515f2.jpeg",
+      "PackagePath": "staticwebassets\\images\\d8509612-11eb-42b8-b42e-bf896a2515f2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\TheGenius\\Desktop\\Product Management System\\Product Management System\\Product Management System.View\\wwwroot\\images\\eada3fee-23e9-4bf3-9482-3004bca694c2.jpg",
+      "PackagePath": "staticwebassets\\images\\eada3fee-23e9-4bf3-9482-3004bca694c2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Product Management System.View.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Product Management System.View.props",
+      "PackagePath": "build\\Product Management System.View.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Product Management System.View.props",
+      "PackagePath": "buildMultiTargeting\\Product Management System.View.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Product Management System.View.props",
+      "PackagePath": "buildTransitive\\Product Management System.View.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

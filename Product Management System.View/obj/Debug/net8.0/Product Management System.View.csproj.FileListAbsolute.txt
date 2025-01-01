@@ -1,0 +1,186 @@
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\appsettings.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.View.exe
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.View.deps.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.View.runtimeconfig.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.View.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.View.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.Application.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.Context.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.Infrastructure.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.Models.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.Application.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.Context.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.Infrastructure.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.Models.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.csproj.AssemblyReference.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.AssemblyInfoInputs.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.AssemblyInfo.cs
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.csproj.CoreCompileInputs.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\staticwebassets\msbuild.Product Management System.View.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Management System.View.props
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Management System.View.props
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Management System.View.props
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\scopedcss\bundle\Product Management System.View.styles.css
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product .99C38733.Up2Date
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\refint\Product Management System.View.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.pdb
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\Product Management System.View.genruntimeconfig.cache
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\obj\Debug\net8.0\ref\Product Management System.View.dll
+C:\Users\TheGenius\Desktop\Product Management System\Product Management System\Product Management System.View\bin\Debug\net8.0\Product Management System.View.staticwebassets.runtime.json

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheGenius\\Desktop\\Product Management System\\Product Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71FD2828-1E09-40D3-83BF-2F3F4C6D94E7}|Product Management System.View\\Product Management System.View.csproj|c:\\users\\thegenius\\desktop\\product management system\\product management system\\product management system.view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FD2828-1E09-40D3-83BF-2F3F4C6D94E7}|Product Management System.View\\Product Management System.View.csproj|solutionrelative:product management system.view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheGenius\\Desktop\\Product Management System\\Product Management System\\Product Management System.View\\Program.cs",
+              "RelativeDocumentMoniker": "Product Management System.View\\Program.cs",
+              "ToolTip": "C:\\Users\\TheGenius\\Desktop\\Product Management System\\Product Management System\\Product Management System.View\\Program.cs",
+              "RelativeToolTip": "Product Management System.View\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T02:08:19.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
