@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #f7f9fa;
+}
+.logo{
+    text-align: center;
+}
+
+.navbar .container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .logo h2 {
+    margin: 0;
+  }
+  

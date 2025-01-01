@@ -1,0 +1,50 @@
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+  }
+  
+  .confirmation-dialog-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-30%, -70%);
+    width: 30vw;
+    max-width: 80%;
+    height: auto;
+    max-height: 80vh;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    z-index: 1001;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  @media (max-width: 1024px) {
+    .confirmation-dialog-container {
+      transform: translate(-50%, -50%);
+      width: 90vw;
+    max-width: 90%;
+    height: auto;
+    }
+  }
+  
+  
+  .icon-circle {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-color: rgb(182, 1, 1);
+    border-radius: 50%;
+    text-align: center;
+    line-height: 32px;
+  }
+  
+  .icon-circle i {
+    color: white;
+  }

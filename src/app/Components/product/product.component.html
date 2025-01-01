@@ -1,0 +1,54 @@
+<div class="container m-2">
+  <div class="search-container">
+    <input type="text" class="search-input" name="search" [(ngModel)]="textSearch">
+    <button class="search-button" (click)="SearchByName()">Search</button>
+  </div>
+
+  <form>
+    <div class="form-group">   
+      <div class="form-group mt-3">
+        <label>MinPrice</label>
+        <input type="number" [(ngModel)]="filters.minPrice" name="minPrice" class="form-control" />
+      </div>
+      <div class="form-group mt-3">
+        <label>MaxPrice</label>
+        <input type="number" [(ngModel)]="filters.maxPrice" name="maxPrice" class="form-control" />
+      </div>
+      <button type="button" class="btn btn-dark mt-3" (click)="applyFilters()">Filter Price</button>
+    </div>
+  </form>
+
+  <table class="table table-bordered my-5 tableContainer">
+    <thead>
+      <tr>
+        <th>Images</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Price</th>
+        <th>CreatedDate</th>
+        <th class="text-center" colspan="3">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let product of (filteredProducts.length ? filteredProducts : products.entities) | paginate: { itemsPerPage: pageItem, currentPage: pageNumber, totalItems: totalCount }">
+        <td>
+          <img [src]="'data:image/jpeg;base64,' + product.images[0]" alt="Image" class="img-thumbnail" />
+        </td>
+        <td>{{ product.name }}</td> 
+        <td>{{ product.description }}</td>
+        <td>{{ product.price | currency }}</td> 
+        <td>{{ product.createdDate | date }}</td>
+        <td>
+          <button class="btn btn-success" (click)="updateProduct(product)">Edit</button>
+        </td>
+        <td>
+          <button class="btn btn-danger" mat-raised-button color="warn" (click)="deleteProduct(product.id)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="paginate">
+    <pagination-controls (pageChange)="onPageChange($event)"></pagination-controls>
+  </div>
+</div>

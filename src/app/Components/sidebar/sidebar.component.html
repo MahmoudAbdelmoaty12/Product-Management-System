@@ -1,0 +1,63 @@
+<!-- smail-screen -->
+<div class="smail-screen">
+    <button class="btn " type="button" data-bs-toggle="collapse" data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample">
+      <i class="fas fa-list m-2"></i>
+    </button>
+    <div class="collapse collapse-horizontal" id="collapseWidthExample">
+      <div class="d-flex flex-column flex-shrink-0 sidebar-wrap m-2 " style="width: 180px;">
+        <a href="/" class="text-decoration-none logo-wrap"></a>
+        <hr>
+        <ul class="list-unstyled ps-0">
+          <li class="mb-1">
+            <button class="btn align-items-center rounded" routerLink="/Home">
+              <i Class="fas fa-home m-2"></i>Home
+            </button>
+          </li>
+  
+          <li class="mb-1">
+            <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#product-collapse" aria-expanded="false">
+              <i class='bx bx-grid-alt'></i>Product
+            </button>
+            <div class="collapse" id="product-collapse">
+              <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                <li class="mx-4 my-2"><i class="fas fa-list m-2"></i><a routerLink="/Products" class="link-dark rounded text-decoration-none">All Products</a></li>
+                <li class="mx-4 my-2"><i class="fas fa-plus m-2"></i><a routerLink="/AddProduct" class="link-dark rounded text-decoration-none">Add Product</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <hr>
+    </div>
+  </div>
+  
+  <!-- ---------- End smail-screen--------------- -->
+  
+  <!-- ----------- Larg-screen ------------------- -->
+  <div class="larg-screen">
+    <div class="d-flex flex-column flex-shrink-0 sidebar-wrap m-2">
+      <a href="/" class="text-decoration-none logo-wrap"></a>
+      <hr>
+      <ul class="list-unstyled ps-0">
+        <li class="mb-1">
+          <button class="btn align-items-center rounded" routerLink="/Home">
+            <i Class="fas fa-home m-2"></i>Home
+          </button>
+        </li>
+  
+        <li class="mb-1">
+          <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#product-collapse" aria-expanded="false">
+            <i class="fas fa-grip-horizontal m-2"></i>Product
+          </button>
+          <div class="collapse" id="product-collapse">
+            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+              <li class="mx-4 my-2 large-font"><i class="fas fa-list m-2"></i><a routerLink="/Products" class="link-dark rounded text-decoration-none">All Products</a></li>
+              <li class="mx-4 my-2 large-font"><i class="fas fa-plus m-2"></i><a routerLink="/AddProduct" class="link-dark rounded text-decoration-none">Add Product</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+      <hr>
+    </div>
+  </div>
+  
